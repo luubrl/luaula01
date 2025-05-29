@@ -1,0 +1,16 @@
+   DIFERENÇA
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [diferença] = [a] - [b];
+    3. Mostre [diferença].
+
+  PRODUTO
+   1.Leia os numeors inteiros [a] e [b]
+   2.calcule a [multiplicação] = [a] x [b]
+   3.mostre [multiplicação]
+
+  DIVISÃO
+  1.Leia os numeros  [a] e [b] 
+  2.Calcule a [divisão] = [a] / [b]
+  3.Mostre [quociente]
+
